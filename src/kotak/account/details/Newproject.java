@@ -8,6 +8,7 @@ public class Newproject {
 		// TODO Auto-generated method stub
 		HashMap hm=new HashMap<>();
 		hm.put("Thara", 5 );
+		hm.put("Mathi",38);
 		System.out.println(hm);
 	}
 
