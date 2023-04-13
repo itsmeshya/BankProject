@@ -9,6 +9,7 @@ public class Newproject {
 		HashMap hm=new HashMap<>();
 		hm.put("Thara", 5 );
 		hm.put("Mathi",38);
+		hm.put("Sankari",33);
 		System.out.println(hm);
 	}
 
